@@ -1,0 +1,27 @@
+[  
+   {  
+      "pluginName":"sample1",
+      "pluginArchive":"PerspectivePluginSample.zip",
+      "isUpdatedFromGit" : "true",
+      "pluginDescription":"this is sample 1 from developer studio ",
+      "iconLoc":"icon.png"
+   },
+   {  
+      "pluginName":"sample2",
+      "pluginArchive":"SampleArtifactPlugin.zip",
+      "pluginDescription":"this is sample 2 from developer studio ",
+      "iconLoc":"icon.png"
+   },
+    {  
+      "pluginName":"sample3",
+      "pluginArchive":"SampleMultipleArtifactPlugin.zip",
+      "pluginDescription":"this is sample 3 from developer studio ",
+      "iconLoc":"icon.png"
+   },
+  {  
+      "pluginName":"sample4",
+      "pluginArchive":"ViewPlugin.zip",
+      "pluginDescription":"this is sample 4 from developer studio ",
+      "iconLoc":"icon.png"
+   }
+]
