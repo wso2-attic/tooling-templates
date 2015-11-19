@@ -1,4 +1,5 @@
-{ "id":"org.wso2.perspective.from.git.plugin.sample",
+{  
+   "id":"org.wso2.perspective.from.git.plugin.sample",
 "id":"org.wso2.artifact.plugin.sample",
 "id":"org.wso2.multiple.artifact.plugin.sample",
 "id":"org.wso2.view.plugin.sample",

@@ -1,0 +1,7 @@
+{  
+      "pluginName":"sample3",
+	"id":"org.wso2.multiple.artifact.plugin.sample",
+      "pluginArchive":"SampleMultipleArtifactPlugin.zip",
+      "pluginDescription":"this is sample 3 from developer studio ",
+      "iconLoc":"icon.png"
+   }

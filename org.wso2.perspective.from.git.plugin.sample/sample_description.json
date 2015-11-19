@@ -1,0 +1,8 @@
+{  
+      "pluginName":"sample1",
+	"id":"org.wso2.perspective.from.git.plugin.sample",
+      "pluginArchive":"PerspectivePluginSample.zip",
+      "isUpdatedFromGit" : "true",
+      "pluginDescription":"this is sample 1 from developer studio ",
+      "iconLoc":"icon.png"
+   }

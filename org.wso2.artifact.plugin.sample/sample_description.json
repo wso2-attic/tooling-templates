@@ -1,0 +1,8 @@
+{  
+      "pluginName":"sample2",
+	"id":"org.wso2.artifact.plugin.sample",
+      "pluginArchive":"SampleArtifactPlugin.zip",
+	"isUpdatedFromGit" : "true",
+      "pluginDescription":"this is sample 2 from developer studio ",
+      "iconLoc":"icon.png"
+   }
