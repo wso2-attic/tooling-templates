@@ -1,5 +1,5 @@
  {  
-      "pluginName":"sample4",
+      "pluginName":"Plug-in with a view",
       "pluginArchive":"ViewPlugin.zip",
 "id":"org.wso2.view.plugin.sample",
       "pluginDescription":"this is sample 4 from developer studio ",

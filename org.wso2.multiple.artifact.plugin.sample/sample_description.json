@@ -1,5 +1,5 @@
 {  
-      "pluginName":"sample3",
+      "pluginName":"Plugin with a Multiple Artifact Project",
 	"id":"org.wso2.multiple.artifact.plugin.sample",
       "pluginArchive":"SampleMultipleArtifactPlugin.zip",
       "pluginDescription":"this is sample 3 from developer studio ",
