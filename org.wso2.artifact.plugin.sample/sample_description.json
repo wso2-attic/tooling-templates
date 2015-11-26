@@ -1,5 +1,5 @@
 {  
-      "pluginName":"sample2",
+      "pluginName":"Plug-in with a single artifact",
 	"id":"org.wso2.artifact.plugin.sample",
       "pluginArchive":"SampleArtifactPlugin.zip",
 	"isUpdatedFromGit" : "true",
