@@ -1,6 +1,6 @@
  {  
       "pluginName":"Plug-in with a view",
-      "pluginArchive":"ViewPlugin.zip",
+      "pluginArchive":"ViewPluginSample.zip",
 "id":"org.wso2.view.plugin.sample",
       "pluginDescription":"this is sample 4 from developer studio ",
       "iconLoc":"icon.png"
