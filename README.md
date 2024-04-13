@@ -1,1 +1,1 @@
-# tooling-templates
+# [DEPRECATED] tooling-templates
